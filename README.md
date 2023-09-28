@@ -14,7 +14,7 @@ If you're looking for a plugin to add a touch of bathroom humor to your server, 
 
 ## Installation
 
-1. Download the Metabolism Plugin JAR file from the [releases](https://github.com/your-repo-link/releases) page.
+1. Download the Metabolism Plugin JAR file from the [releases](https://github.com/arnemileswinter/mc-metabolism/releases) page.
 2. Place the JAR file in your server's `plugins` folder.
 3. Restart your Minecraft server.
 
